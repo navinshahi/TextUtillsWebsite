@@ -1,2 +1,2 @@
 # TextUtillsWebsite
-<img align="right" src="Screenshot.png" width="auto" height="100%">
+<img align="right" src="Screenshot.png" width="100%" height="100%">
